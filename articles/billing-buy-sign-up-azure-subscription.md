@@ -18,7 +18,7 @@
 	ms.date="02/21/2016"
 	ms.author="genli"/>
 
-# Azure Offers - benefits & limits, how to sign-up, purchase, upgrade or Activate
+# Azure Offers - benefits & limits, how to sign-up, purchase, upgrade or activate
 
 Azure provides various offers to suite your business needs and get started using Azure. Visit [Azure Offers](https://azure.microsoft.com/support/legal/offer-details/) for a complete listing of all active offers with details on each offer about what they cover, benefits and availability by countries/region.
 
